@@ -2,6 +2,12 @@
 
 - 🌱 I’m currently learning SQL, ASP.NET, C#
 
+
+## 📬 Get in touch
+
+- Twitter: [twitter.com/josuegarza42](https://twitter.com/josuegarza42)
+- Email: [negociosgarzas@gmail.com](negociosgarzas)
+
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/josuegarza42/josuegarza42">
