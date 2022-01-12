@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning SQL,C#, ASP.NET
+- 🌱 I’m currently learning: SQL, C#, ASP.NET
 
 
 ## 📬 Get in touch
