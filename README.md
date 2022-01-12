@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning: SQL, C#, ASP.NET
 
 
-<p align="center">
-### 🤝🏻 &nbsp;Connect with Me
-</p>
 
+### 🤝🏻 &nbsp;Connect with Me
+<p align="center">
+</p>
 
 - Twitter: [josuegarza42](https://twitter.com/josuegarza42)
 - Email: negociosgarzas@gmail.com
