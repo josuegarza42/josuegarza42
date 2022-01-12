@@ -6,7 +6,7 @@
 ## 📬 Get in touch
 
 - Twitter: [twitter.com/josuegarza42](https://twitter.com/josuegarza42)
-- Email: [negociosgarzas@gmail.com](negociosgarzas)
+- Email: [negociosgarzas](negociosgarzas@gmail.com)
 
 ## &#x1f4c8; My GitHub Stats
 
