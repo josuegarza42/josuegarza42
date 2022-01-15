@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning: SQL, C#, ASP.NET
+- 🌱 I’m currently learning: SQL,T-SQL, C#, ASP.NET
 
 ## &#x1f4c8; My GitHub Stats
 
