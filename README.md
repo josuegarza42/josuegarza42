@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning: T-SQL, C#, ASP.NET
 
 ### ✨ Competencies: 
--SQL <br>
-  -SGBD: SSMS, Mysql Workbench <br>
+-SQL (-SGBD: SSMS, Mysql Workbench) <br>
 -HTML <br>
 -CSS <br>
 -Bootstrap 5 <br>
