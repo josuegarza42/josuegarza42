@@ -3,12 +3,12 @@
 - 🌱 I’m currently learning:T-SQL, C#, ASP.NET
 
 ### ✨ Competencies: 
+-SQL <br>
 -HTML <br>
--CSS
--Bootstrap 5
--SQL
--C
--JS
+-CSS <br>
+-Bootstrap 5 <br>
+-C <br>
+-JS <br>
 
 ## &#x1f4c8; My GitHub Stats
 
