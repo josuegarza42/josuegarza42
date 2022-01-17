@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning: SQL,T-SQL, C#, ASP.NET
+- 🌱 I’m currently learning:T-SQL, C#, ASP.NET
+
+### ✨ Competencies: 
+-HTML
+-CSS
+-Bootstrap 5
+-SQL
+-C
+-JS
 
 ## &#x1f4c8; My GitHub Stats
 
