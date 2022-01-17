@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning:T-SQL, C#, ASP.NET
 
 ### ✨ Competencies: 
--HTML
+-HTML <br>
 -CSS
 -Bootstrap 5
 -SQL
