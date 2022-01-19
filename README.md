@@ -27,6 +27,6 @@
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/josuegarza42) 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/josuegarza42) 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](negociosgarzas@gmail.com)  
+ //[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](negociosgarzas@gmail.com)  
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=josuegarza42&color=2685BF)
