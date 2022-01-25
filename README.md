@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning: T-SQL, C#, ASP.NET
+- 🌱 I’m currently learning: T-SQL, C#, ASP.NET 6
 
 ### ✨ Competencies: 
 -SQL (-SGBD: SSMS, MYSQL Workbench) <br>
