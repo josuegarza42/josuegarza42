@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning: T-SQL, C#, ASP.NET 6
+- 🌱 I’m currently learning: T-SQL, C#, ASP.NET 6, Laravel 8, Figma
 
 ### ✨ Competencies: 
 -SQL (-SGBD: SSMS, MYSQL Workbench) <br>
