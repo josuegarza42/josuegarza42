@@ -3,13 +3,18 @@
 - 🌱 I’m currently learning: T-SQL, C#, ASP.NET
 
 ### ✨ Competencies: 
--SQL (-SGBD: SSMS, Mysql Workbench) <br>
+-SQL (-SGBD: SSMS, MYSQL Workbench) <br>
 -HTML <br>
 -CSS <br>
 -Bootstrap 5 <br>
 -C <br>
 -JS <br>
 -PHP (Beginner)
+
+## ✨ Certificates & Courses
+ CCNA: Introduction to Networks (ITN) (Cisco)
+ Curso de Fundamentos de Bases de Datos (Platzi)
+ Curso de Economía Digital: Bitcoin y Criptomonedas (Platzi)
 
 ## &#x1f4c8; My GitHub Stats
 
