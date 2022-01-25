@@ -13,7 +13,7 @@
 
 ## ✨ Certificates & Courses
  -CCNA: Introduction to Networks (ITN) (Cisco) <br>
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="985cc9d4-b93b-4d70-96ac-9a9e61c54b2b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+ <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="985cc9d4-b93b-4d70-96ac-9a9e61c54b2b" data-share-badge-host="https://www.credly.com"></div>
  -Curso de Fundamentos de Bases de Datos (Platzi) <br>
  -Curso de Economía Digital: Bitcoin y Criptomonedas (Platzi)<br>
 
