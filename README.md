@@ -8,7 +8,7 @@
 -CSS <br>
 -Bootstrap 5 <br>
 -C <br>
--JS <br>
+-JS (Beginner) <br>
 -PHP (Beginner)
 
 ## ✨ Certificates & Courses
