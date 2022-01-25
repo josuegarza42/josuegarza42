@@ -12,9 +12,9 @@
 -PHP (Beginner)
 
 ## ✨ Certificates & Courses
- CCNA: Introduction to Networks (ITN) (Cisco) <br>
- Curso de Fundamentos de Bases de Datos (Platzi) <br>
- Curso de Economía Digital: Bitcoin y Criptomonedas (Platzi)<br>
+ -CCNA: Introduction to Networks (ITN) (Cisco) <br>
+ -Curso de Fundamentos de Bases de Datos (Platzi) <br>
+ -Curso de Economía Digital: Bitcoin y Criptomonedas (Platzi)<br>
 
 ## &#x1f4c8; My GitHub Stats
 
