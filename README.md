@@ -15,6 +15,8 @@
  -[CCNA: Introduction to Networks (ITN) (Cisco)](https://www.credly.com/badges/985cc9d4-b93b-4d70-96ac-9a9e61c54b2b/public_url) <br>
  -Curso de Fundamentos de Bases de Datos (Platzi) <br>
  -Curso de Economía Digital: Bitcoin y Criptomonedas (Platzi)<br>
+ -Curso Profesional de Git y GitHub (Platzi)<br>
+ 
 
 ## &#x1f4c8; My GitHub Stats
 
