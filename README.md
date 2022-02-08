@@ -13,9 +13,11 @@
 
 ## ✨ Certificates & Courses
  -[CCNA: Introduction to Networks (ITN) (Cisco)](https://www.credly.com/badges/985cc9d4-b93b-4d70-96ac-9a9e61c54b2b/public_url) <br>
- -Curso de Fundamentos de Bases de Datos (Platzi) <br>
- -Curso de Economía Digital: Bitcoin y Criptomonedas (Platzi)<br>
- -[Curso Profesional de Git y GitHub (Platzi)] (https://platzi.com/p/josuegarza42/curso/1557-git-github/diploma/detalle/)<br>
+ -[Curso de Fundamentos de Bases de Datos (Platzi)](https://platzi.com/p/josuegarza42/curso/1566-bd/diploma/detalle/) <br>
+ -[Curso Profesional de Git y GitHub (Platzi)](https://platzi.com/p/josuegarza42/curso/1557-git-github/diploma/detalle/)<br>
+ -Blockchain y Criptomonedas<br>
+  -[Economía Digital: Bitcoin y Criptomonedas(Platzi)](https://platzi.com/p/josuegarza42/curso/2452-economia-digital/diploma/detalle/)<br>
+  -[Curso de Creación de NFT(Platzi)](https://platzi.com/p/josuegarza42/curso/2377-nfts/diploma/detalle/)
  
 
 ## &#x1f4c8; My GitHub Stats
