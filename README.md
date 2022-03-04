@@ -34,7 +34,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/josuegarza42) 
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Devsthink) 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/josuegarza42) 
  
  ![GitHub Views](https://komarev.com/ghpvc/?username=josuegarza42&color=2685BF)
