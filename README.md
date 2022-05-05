@@ -18,7 +18,7 @@
  -Blockchain y Criptomonedas<br>
   -[Economía Digital: Bitcoin y Criptomonedas(Platzi)](https://platzi.com/p/josuegarza42/curso/2452-economia-digital/diploma/detalle/)<br>
   -[Curso de Creación de NFT(Platzi)](https://platzi.com/p/josuegarza42/curso/2377-nfts/diploma/detalle/)<br>
-  -[Scrum fundamentals Certified ](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-JosueIsraelGarza-914236.pdf)
+  -[Scrum Fundamentals Certified (SFC) ](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-JosueIsraelGarza-914236.pdf)
  
 
 ## &#x1f4c8; My GitHub Stats
