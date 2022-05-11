@@ -2,6 +2,8 @@
 
 ### 🤠 I’m currently learning: T-SQL, Laravel 8, C#, ASP.NET 6
 
+### 📣 Languages: Spanish & English  
+
 ### ✨ Competencies: 
 - <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> SQL (-SGBD: SSMS, MYSQL Workbench) <br>
 - <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> Git <br>
