@@ -2,6 +2,8 @@
 
 ### 🤠 I’m currently learning: T-SQL, Laravel 8, C#, ASP.NET 6
 
+### 👀 I’m interested in: Web development, Data science and Cybersecurity
+
 ### 📣 Languages: Spanish & English  
 
 ### ✨ Competencies: 
