@@ -42,7 +42,7 @@
 <!--- [![trophy](https://github-profile-trophy.vercel.app/?username=josuegarza42&theme=gruvbox&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ### 🤝🏻 &nbsp;Connect with Me
-- <a href="https://github.com/Devsthink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="devsthink" height="30" width="40" /></a>
-- <a href="https://twitter.com/josuegarza42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josuegarza42" height="30" width="40" /></a>
+- <a href="https://github.com/Devsthink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="devsthink" height="30" width="40" /> Devsthink </a>
+- <a href="https://twitter.com/josuegarza42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josuegarza42" height="30" width="40" /> josuegarza42 </a>
  
  ![GitHub Views](https://komarev.com/ghpvc/?username=josuegarza42&color=9046cf)
