@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👽, I'm Josue Garza</h1>
 
-### 🤠 I’m currently learning: T-SQL, JQuery, AlpineJS, Tailwind CSS, C#, ASP.NET 6
+### 🤠 I’m currently learning: T-SQL, Tailwind CSS, AlpineJS, JQuery
 
 ### 👀 I’m interested in: Web development, Data science and Cybersecurity
 
