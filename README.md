@@ -12,21 +12,21 @@
 - <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> HTML 5 <br>
 - <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> CSS 3<br>
 - <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> Bootstrap 5  <br>
-- <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> laravel 8 (Beginner) <br>
+- <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> Laravel 8 <br>
 - <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> Figma <br>
-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> C (Beginner) <br>
-- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> C++ (Beginner) <br>
-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> JS (Beginner) <br>
-- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> PHP (Beginner)
+- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> C  <br>
+- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> C++  <br>
+- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> JS <br>
+- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> PHP 
 
 ## 🚀 Certificates & Courses
-- [Scrum Fundamentals Certified (SFC) ](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-JosueIsraelGarza-914236.pdf)<br>
+- [Scrum Fundamentals Certified (SFC)](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-JosueIsraelGarza-914236.pdf)<br>
  - [CCNA: Introduction to Networks (ITN) (Cisco)](https://www.credly.com/badges/985cc9d4-b93b-4d70-96ac-9a9e61c54b2b/public_url) <br>
- - [Curso de Fundamentos de Bases de Datos (Platzi)](https://platzi.com/p/josuegarza42/curso/1566-bd/diploma/detalle/) <br>
- - [Curso Profesional de Git y GitHub (Platzi)](https://platzi.com/p/josuegarza42/curso/1557-git-github/diploma/detalle/)<br>
- - <h3> Blockchain y Criptomonedas </h3> 
-  - [Economía Digital: Bitcoin y Criptomonedas(Platzi)](https://platzi.com/p/josuegarza42/curso/2452-economia-digital/diploma/detalle/)<br>
-  - [Curso de Creación de NFT(Platzi)](https://platzi.com/p/josuegarza42/curso/2377-nfts/diploma/detalle/)<br>
+ - [Database Fundamentals Course (Platzi)](https://platzi.com/p/josuegarza42/curso/1566-bd/diploma/detalle/) <br>
+ - [Git and GitHub Professional Course (Platzi)](https://platzi.com/p/josuegarza42/curso/1557-git-github/diploma/detalle/)<br>
+ - <h3> Blockchain y Cripto </h3> 
+  - [Digital Economy: Bitcoin y Cripto (Platzi)](https://platzi.com/p/josuegarza42/curso/2452-economia-digital/diploma/detalle/)<br>
+  - [NFT Creation Course (Platzi)](https://platzi.com/p/josuegarza42/curso/2377-nfts/diploma/detalle/)<br>
   
  
 ## &#x1f4c8; My GitHub Stats
