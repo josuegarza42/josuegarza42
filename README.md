@@ -22,6 +22,8 @@
  - [CCNA: Introduction to Networks (ITN) (Cisco)](https://www.credly.com/badges/985cc9d4-b93b-4d70-96ac-9a9e61c54b2b/public_url) <br>
  - [Database Fundamentals Course (Platzi)](https://platzi.com/p/josuegarza42/curso/1566-bd/diploma/detalle/) <br>
  - [Git and GitHub Professional Course (Platzi)](https://platzi.com/p/josuegarza42/curso/1557-git-github/diploma/detalle/)<br>
+ - [Basic Algorithms and Logical Thinking (Platzi)](https://platzi.com/p/josuegarza42/curso/2218-pensamiento-logico-2020/diploma/detalle/)<br>
+ 
  - <h3> Blockchain y Cripto </h3> 
   - [Digital Economy: Bitcoin y Cripto (Platzi)](https://platzi.com/p/josuegarza42/curso/2452-economia-digital/diploma/detalle/)<br>
   - [NFT Creation Course (Platzi)](https://platzi.com/p/josuegarza42/curso/2377-nfts/diploma/detalle/)<br>
