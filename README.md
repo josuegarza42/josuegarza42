@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👽, I'm Josue Garza</h1>
 
-### 🤠 I’m currently learning: T-SQL, Tailwind CSS, AlpineJS, JQuery, Mongodb, Express, Angular 6, Nodejs
-
-### 👀 I’m interested in: Web development, Data science and Cybersecurity
+### 🤠 A 23 year old Mexican developer, interested in Frontend, Backend, databases and UX.
 
 ### 📣 Languages: Spanish & English  
 
