@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👽, I'm Josue Garza</h1>
 
-### 🤠 A 24 year old Mexican developer, interested in Frontend, Backend, databases and UX.
+### 🤠 24 year old Mexican developer, interested in Frontend, Backend, databases and UX.
 
 ### 📣 Languages: Spanish & English  
 
