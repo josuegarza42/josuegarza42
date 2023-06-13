@@ -1,6 +1,6 @@
 <h1 align="center">👋, I'm Josué Garza</h1>
 
-<h3 align="center">Passionate developer from Mexico, with interests in Frontend, Backend, Databases and UX.</h3>
+<h3 align="center">Passionate developer from Mexico, with interests in PM, Frontend, Backend, Databases and UX.</h3>
 
 - 📣 Languages: **Spanish and English**
 - 💼 Currently working at **[SFU Burnaby Intern Research](https://www.sfu.ca/)**
