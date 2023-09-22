@@ -1,9 +1,9 @@
 <h1 align="center">👋, I'm Josué Garza</h1>
 
-<h3 align="center">Passionate developer from Mexico, with interests in PM, Frontend, Backend, Databases and UX.</h3>
+<h3 align="center">Passionate developer from Mexico, with interests in Project management, Web and Mobile development.</h3>
 
 - 📣 Languages: **Spanish and English**
-- 💼 Currently working at **[SFU Burnaby Intern Research](https://www.sfu.ca/)**
+- 💼 Currently working at **[Softdone] (https://www.sfu.ca/)**
 - 📫 How to reach me: **josuegarza.dev@gmail.com**
 
 ### 🛠 &nbsp;Technical Skills
