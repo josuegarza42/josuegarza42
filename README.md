@@ -5,6 +5,7 @@
 - 📣 Languages: **Spanish and English**
 - 💼 Currently working at **[Softdone](https://www.sfu.ca/)**
 - 📫 How to reach me: **josuegarza.dev@gmail.com**
+- 🤩 This is my resume: https://flowcv.com/resume/its72h4324
 
 ### 🛠 &nbsp;Technical Skills
 - <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> HTML </a>  <br>
