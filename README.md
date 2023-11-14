@@ -3,13 +3,13 @@
 <h3 align="center">Passionate developer from Mexico, with interests in Project management, Web and Mobile development.</h3>
 
 - 📣 Languages: **Spanish and English**
-- 💼 Currently working at **[Softdone](https://www.sfu.ca/)**
+- 💼 Currently working at **[Softdone](https://softdone.com.mx/)**
 - 📫 How to reach me: **josuegarza.dev@gmail.com**
 - 🤩 This is my **[resume](https://flowcv.com/resume/its72h4324)** 
 
 ### 🛠 &nbsp;Technical Skills
-- <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> HTML </a>  <br>
-- <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="mysql" width="40" height="40"/> CSS </a> <br>
+- <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> HTML </a> 
+- <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="mysql" width="40" height="40"/> CSS </a> 
 - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> Javascript </a>  <br>
 - <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> Bootstrap </a>   <br>
 - <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> Tailwind CSS </a>  <br>
@@ -21,18 +21,8 @@
 - <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> C </a>  
 - <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> Figma </a> <br>
 - <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="mysql" width="40" height="40"/> Git </a>  <br>
-
-## 🚀 Certifications and Courses
-- [Scrum Fundamentals Certified (SFC)](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-JosueIsraelGarza-914236.pdf)<br>
- - [CCNA: Introduction to Networks (ITN) (Cisco)](https://www.credly.com/badges/985cc9d4-b93b-4d70-96ac-9a9e61c54b2b/public_url) <br>
- - [Database Fundamentals Course (Platzi)](https://platzi.com/p/josuegarza42/curso/1566-bd/diploma/detalle/) <br>
- - [Git and GitHub Professional Course (Platzi)](https://platzi.com/p/josuegarza42/curso/1557-git-github/diploma/detalle/)<br>
- - [Basic Algorithms and Logical Thinking (Platzi)](https://platzi.com/p/josuegarza42/curso/2218-pensamiento-logico-2020/diploma/detalle/)<br>
- - [Software Engineering Fundamentals (Platzi)](https://platzi.com/p/josuegarza42/curso/1098-ingenieria/diploma/detalle/)<br>
- - [Digital Economy: Bitcoin y Cripto (Platzi)](https://platzi.com/p/josuegarza42/curso/2452-economia-digital/diploma/detalle/)<br>
- - [NFT Creation Course (Platzi)](https://platzi.com/p/josuegarza42/curso/2377-nfts/diploma/detalle/)<br>
     
-## &#x1f4c8; My GitHub Stats
+## Some numbers 🧠
 <a href="https://github.com/josuegarza42/josuegarza42">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuegarza42&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
