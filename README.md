@@ -1,6 +1,6 @@
 <h1 align="center">👋, I'm Josué Garza</h1>
 
-<h3 align="center">Passionate developer from Mexico, with interests in Project management, Web and Mobile development.</h3>
+<h3 align="center">Passionate developer from Mexico, with interests in Project Management, Web and Mobile development.</h3>
 
 - 📣 Languages: **Spanish and English**
 - 💼 Currently working at **[Softdone](https://softdone.com.mx/)**
