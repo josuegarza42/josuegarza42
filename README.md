@@ -6,6 +6,7 @@
 - 💼 Currently working at **[Softdone](https://softdone.com.mx/)**
 - 📫 How to reach me: **josuegarza.dev@gmail.com**
 - 🤩 This is my **[resume](https://flowcv.com/resume/its72h4324)** 
+- 📓 You can see my **[portfolio](https://josuegarza.dev)** 
 
 ## Skills:
 
