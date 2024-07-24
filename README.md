@@ -3,7 +3,7 @@
 <h3 align="center">Passionate developer from Mexico, with interests in Project Management, Web and Mobile development.</h3>
 
 - 📣 Languages: **Spanish and English**
-- 💼 Currently working at **[Softdone](https://softdone.com.mx/)**
+- 💼 Currently working at **[Qualtrics](https://www.qualtrics.com/)**
 - 📫 How to reach me: **josuegarza.dev@gmail.com**
 - 🤩 This is my **[resume](https://flowcv.com/resume/its72h4324)** 
 - 📓 You can see my **[portfolio](https://josuegarza.dev)** 
